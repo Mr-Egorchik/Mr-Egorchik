@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Mr-Egorchik
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C++, Java, Python, PHP
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in AI, HPC and web-development
+- 🌱 I’m currently learning C++, Java, Python, Fortran, JavaScript
+
 
 <!---
 Mr-Egorchik/Mr-Egorchik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
